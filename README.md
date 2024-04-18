@@ -62,9 +62,6 @@
 ###
 
 <a href="https://wakatime.com/@841dc42c-eb31-429c-867a-5871c6c0f36f"><img src="https://wakatime.com/badge/user/841dc42c-eb31-429c-867a-5871c6c0f36f.svg" alt="Total time coded since Jan 5 2021" /></a>
-    <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=italik-gr&show_icons=true&locale=en" alt="italik-gr" />
-    </p>
     <p>    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=italik-gr&" alt="italik-gr" /></p>
 
 
