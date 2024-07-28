@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **italik.dev@gmail.com**
 
+- My GitLab [Italik_gr](https://gitlab.com/Italik_gr)
+
 <h3 align="left">Connect with me:</h3>
 
 <div align="center">
