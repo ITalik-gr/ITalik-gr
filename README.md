@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm italik</h1>
-<h3 align="center">i'm a passionate front-end developer with a proven track record in web application development and the seamless integration of third-party services. my true passion lies in optimizing web products to perform as smoothly as a spacex rocket. 🚀</h3>
+<h1 align="center">Hi 👋, I'm Italik</h1>
+<h3 align="center">Full-stack developer, strongest on the front-end. I build web apps end to end with React, Next.js and TypeScript, and I like taking a project from idea to production on my own. Lately I've been building AI into what I make: LLM integrations, a Telegram AI bot, and AI-assisted development as part of my daily workflow. 🚀</h3>
 
 - 👨‍💻 All of my projects are available at [https://italik-dev.web.app/](https://italik-dev.web.app/)
 
-- 📫 How to reach me **italik.dev@gmail.com**
-
-- My GitLab [Italik_gr](https://gitlab.com/Italik_gr)
+- 📫 How to reach me **italik.gr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
@@ -45,12 +43,6 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/solidity/363636" height="40" alt="solidity logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
   <img width="12" />
