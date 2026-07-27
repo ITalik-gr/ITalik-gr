@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Italik</h1>
 <h3 align="center">Full-stack developer, strongest on the front-end. I build web apps end to end with React, Next.js and TypeScript, and I like taking a project from idea to production on my own. Lately I've been building AI into what I make. I've integrated LLM APIs into real products and made AI-assisted development a daily part of how I work, with my own workflows and a custom skill 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ITalik-gr&label=Profile%20views&color=0e75b6&style=flat" alt="ITalik-gr" />
-</p>
-
 - 👨‍💻 All of my projects are available at [https://italik.dev](https://italik.dev)
 - 📫 How to reach me **italik.gr@gmail.com**
 
