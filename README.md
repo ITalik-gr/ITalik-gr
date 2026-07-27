@@ -16,13 +16,7 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,firebase,nodejs,mongodb,docker,redux,html,css,tailwind,sass,svelte,astro,wordpress,webflow" alt="skills" />
-</p>
-
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ITalik-gr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ITalik-gr's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ITalik-gr&theme=tokyonight&hide_border=true" alt="ITalik-gr's streak stats" height="165" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,tailwind,redux,html,css,sass,nodejs,nestjs,express,postgres,prisma,mongodb,supabase,wordpress,php,cloudflare,git,github,figma,vercel,vite,pnpm" alt="skills" />
 </p>
 
 <p align="center">
