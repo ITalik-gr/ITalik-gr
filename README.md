@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Italik</h1>
-<h3 align="center">Full-stack developer, strongest on the front-end. I build web apps end to end with React, Next.js and TypeScript, and I like taking a project from idea to production on my own. Lately I've been building AI into what I make: LLM integrations, a Telegram AI bot, and AI-assisted development as part of my daily workflow. 🚀</h3>
+<h3 align="center">Full-stack developer, strongest on the front-end. I build web apps end to end with React, Next.js and TypeScript, and I like taking a project from idea to production on my own. Lately I've been building AI into what I make. I've integrated LLM APIs into real products and made AI-assisted development a daily part of how I work, with my own workflows and a custom skills 🚀</h3>
 
 - 👨‍💻 All of my projects are available at [https://italik.dev](https://italik.dev)
 
@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vitalii-hrytsenko" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="italik-gr" height="25" /></a>
+  <!-- <a href="https://www.linkedin.com/in/vitalii-hrytsenko" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="italik-gr" height="25" /></a> -->
   <a href='mailto:italik.gr@gmail.com'> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /></a>
   <a href="https://t.me/ITalik-gr"><img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  /></a>
 </div>
